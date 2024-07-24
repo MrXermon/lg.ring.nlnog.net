@@ -1,0 +1,15 @@
+# Contact noc@vserver.site for any questions.
+
+# Sources
+56382:200,Peering
+56382:205,PNI
+56382:210,Transit
+56382:220,Customer
+
+# Sites
+56382:300,Default
+56382:310,Dusseldorf
+56382:320,Frankfurt am Main
+
+# Action
+56382:666,Blackholing
